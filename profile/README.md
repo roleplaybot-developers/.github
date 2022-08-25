@@ -11,7 +11,8 @@ We are the development team for RoleplayBot; A Feature Rich Discord Bot, Develop
 
 ## Projects
 - [RoleplayBot](https://roleplaybot.xyz/invite)
-- [RoleplayBot API](https://api.roleplaybot.xyz)
+- [RoleplayBot API](https://roleplaybot.xyz/api)
+- [RoleplayBot Panel](https://roleplaybot.xyz/panel)
 
 ## Useful Links
 

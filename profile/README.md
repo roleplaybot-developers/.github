@@ -5,8 +5,8 @@
 ## About
 We are the development team for RoleplayBot; A Feature Rich Discord Bot, Developed for roleplay communities, Join our discord server for support & more information
 
-<a href="https://discord.gg/roleplaybot ">
-  <img src="https://invidget.switchblade.xyz/roleplaybot" />
+<a href="https://discord.gg/mmszmKZzf5 ">
+  <img src="https://invidget.switchblade.xyz/mmszmKZzf5" />
 </a>
 
 ## Projects
